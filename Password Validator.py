@@ -1,3 +1,4 @@
+
 lowerCase, upperCase, specialChar, digit = 0, 0, 0, 0
 passCheck= input("Enter your password:")
 if (len(passCheck) >= 15):
